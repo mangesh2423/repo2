@@ -1,0 +1,13 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is D05D-3792
+
+ Directory of D:\gitproject
+
+06-01-2023  16:16    <DIR>          .
+06-01-2023  16:16    <DIR>          ..
+05-01-2023  18:29               377 index.html
+05-01-2023  17:27               341 test1.txt
+06-01-2023  16:01               424 test2.txt
+06-01-2023  16:16                 0 test3.txt
+               4 File(s)          1,142 bytes
+               2 Dir(s)  179,051,573,248 bytes free
